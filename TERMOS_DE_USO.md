@@ -210,14 +210,14 @@ reembolso. O encerramento não retira direitos que a lei garanta ao Usuário.
 
 ## 10. Privacidade
 
-O tratamento de dados pessoais segue a [Política de Privacidade](https://github.com/jkira26-dev/capturador-nfe-releases/blob/main/POLITICA_DE_PRIVACIDADE.md). Em
+O tratamento de dados pessoais segue a Política de Privacidade ([clique aqui para ler](https://github.com/jkira26-dev/capturador-nfe-releases/blob/main/POLITICA_DE_PRIVACIDADE.md)). Em
 resumo: documentos fiscais, certificados, senhas e dados das empresas ficam no computador
 do Usuário e o Fornecedor não os recebe. Em relação aos documentos das empresas clientes,
 o Usuário é quem decide o tratamento e responde por ele perante os titulares.
 
 ## 11. Alterações destes Termos
 
-O Fornecedor pode atualizar estes Termos. A versão vigente fica em https://github.com/jkira26-dev/capturador-nfe-releases/blob/main/TERMOS_DE_USO.md. Mudanças
+O Fornecedor pode atualizar estes Termos. Para ler a versão vigente, [clique aqui](https://github.com/jkira26-dev/capturador-nfe-releases/blob/main/TERMOS_DE_USO.md). Mudanças
 relevantes são avisadas no Aplicativo ou por e-mail com **15 (quinze) dias** de
 antecedência. As mudanças não retiram o que foi adquirido com a licença (sem mensalidade,
 1 computador, atualizações incluídas enquanto o produto for mantido).
