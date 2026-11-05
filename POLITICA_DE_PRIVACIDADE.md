@@ -102,5 +102,5 @@ O Aplicativo é destinado a uso profissional e não é dirigido a menores de 18 
 
 ## 9. Alterações
 
-Esta Política pode ser atualizada. A versão vigente fica em https://github.com/jkira26-dev/capturador-nfe-releases/blob/main/POLITICA_DE_PRIVACIDADE.md, e mudanças
+Esta Política pode ser atualizada. Para ler a versão vigente, [clique aqui](https://github.com/jkira26-dev/capturador-nfe-releases/blob/main/POLITICA_DE_PRIVACIDADE.md). Mudanças
 relevantes são avisadas no Aplicativo ou por e-mail.
